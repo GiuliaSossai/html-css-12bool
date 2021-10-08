@@ -1,10 +1,10 @@
 body {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 13px;
   color: #fff;
 }
 
 .box, .nested-box {
-  width: 100%;
   padding: 30px;
   border: 1px solid #fff;
   background-color: rgb(85, 127, 243);
@@ -13,7 +13,6 @@ body {
 
 .nested-box {
   background-color: rgb(238, 206, 206);
-  
 }
 
 p {
