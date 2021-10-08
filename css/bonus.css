@@ -1,0 +1,58 @@
+.box {
+  background-color: #fff;
+  border: 2px solid rgb(247, 229, 229);
+  padding: 50px;
+}
+
+.black {
+  background-color: #000;
+}
+
+.yellow {
+  background-color: #FFF176;
+}
+
+.dark-yellow {
+  background-color: #FFEB3B;
+}
+
+.light-yellow {
+  background-color: #FFF59D;
+}
+
+
+.lighter-yellow {
+  background-color: #FFF9C4;
+}
+
+.box.purple {
+  background-color: #EC407A;
+}
+
+.pink {
+  background-color: #F48FB1;
+}
+
+.light-pink {
+  background-color: #F8BBD0;
+}
+
+.pinkie {
+  background-color: #FFCDD2;
+}
+
+.box.dark-orange {
+  background-color: #F57F18;
+}
+
+.box.orange {
+  background-color: #FF8F00;
+}
+
+.box.light-orange {
+  background-color: #FFA000;
+}
+
+.red {
+  background-color: #B71C1C;
+}
