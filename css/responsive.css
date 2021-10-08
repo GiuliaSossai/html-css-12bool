@@ -124,7 +124,7 @@
 /* struttura md */
 @media screen and (min-width: 768px) {
   .container {
-    width: 100%;
+    width: 720px;
   }
 
   .col-md-1 {
