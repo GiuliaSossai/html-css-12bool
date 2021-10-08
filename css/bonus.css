@@ -1,7 +1,7 @@
 .box {
   background-color: #fff;
   border: 2px solid rgb(247, 229, 229);
-  padding: 50px;
+  padding: 30px;
 }
 
 .black {
@@ -55,4 +55,8 @@
 
 .red {
   background-color: #B71C1C;
+}
+
+.hot-orange {
+  background-color: #FF6F00;
 }
